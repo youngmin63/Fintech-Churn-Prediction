@@ -1,3 +1,5 @@
+This project was developed as part of a university coursework and explores customer churn prediction in a FinTech context using a custom dataset inspired by the Kaggle Telco Customer Churn dataset.
+
 ## I. Project Goals and Tasks
 
 This project aims to predict customer churn in a FinTech application using user behaviour and transaction data. The objective is to identify key factors associated with churn and to provide actionable insights that can support data-driven retention strategies. To achieve this, the project applies and compares two machine learning classification models to analyse churn patterns and predictive performance.
