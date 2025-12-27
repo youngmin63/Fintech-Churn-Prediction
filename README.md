@@ -21,8 +21,8 @@ The dataset was preprocessed by removing non-predictive identifier columns and s
 
 Customer churn prediction was formulated as a binary classification problem. Two machine learning models were applied and evaluated:
 
--Logistic Regression
--Random Forest Classifier
+- Logistic Regression 
+- Random Forest Classifier
 
 Both models were trained on the training set and evaluated on a held-out test set to compare predictive behaviour and performance.
 
