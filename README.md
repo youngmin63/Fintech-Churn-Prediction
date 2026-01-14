@@ -30,11 +30,11 @@ Both models were trained on the training set and evaluated on a held-out test se
 
 ## IV. Results Interpretation and Business Implications
 
-Key Drivers of Churn
+## Key Drivers of Churn
 
 Across the models, cumulative transaction behaviour and spending intensity emerged as the most important predictors of customer churn. These variables act as strong behavioural signals that reflect long-term user engagement and usage patterns rather than direct causes of churn.
 
-Business Implications
+## Business Implications
 
 The results suggest that FinTech apps can reduce churn by prioritising high-value users through proactive engagement strategies and by strengthening trust and support mechanisms. Improving the visibility and accessibility of in-app support features and encouraging the adoption of security options may help lower churn risk and improve long-term user retention.
 
